@@ -6,6 +6,7 @@ I specialize in building end-to-end data workflows — from collection (structur
 
 My expertise spans data cleaning and reconciliation, fraud detection, KPI dashboarding, and AI-powered solutions for fintech and digital products. I help businesses move from data overload to clear, profitable action.
 
-Tools: Python, SQL, Power BI, TensorFlow, Scikit-learn, Hive, Presto, Excel.
+Tools: Python, SQL, Power BI, TensorFlow, Scikit-learn, Hive, Presto, Excel
+Mobile: +234 8038526605
 
-Let’s build intelligent products that make decisions, not just reports.
+E-mail:galabi@ihvnigeria.org
